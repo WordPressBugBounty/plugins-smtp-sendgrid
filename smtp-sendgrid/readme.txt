@@ -3,7 +3,7 @@ Contributors: YayCommerce
 Tags: sendgrid smtp, wp mail smtp, wordpress smtp, wp smtp, wp mail, sendgrid
 Requires at least: 4.0
 Requires PHP: 5.3
-Tested up to: 6.7.2
+Tested up to: 6.8
 Stable tag: 1.5
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
