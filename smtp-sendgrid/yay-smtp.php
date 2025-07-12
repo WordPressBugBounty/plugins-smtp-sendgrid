@@ -3,7 +3,7 @@
  * Plugin Name: SMTP for SendGrid – YaySMTP
  * Plugin URI: https://yaycommerce.com/yaysmtp-wordpress-mail-smtp
  * Description: This plugin helps you send emails from your WordPress website via your SendGrid SMTP.
- * Version: 1.5
+ * Version: 1.5.1
  * Author: YayCommerce
  * Author URI: https://yaycommerce.com
  * Text Domain: smtp-sendgrid
@@ -20,7 +20,7 @@ if ( ! defined( 'YAY_SMTP_SENDGRID_PREFIX' ) ) {
 }
 
 if ( ! defined( 'YAY_SMTP_SENDGRID_VERSION' ) ) {
-	define( 'YAY_SMTP_SENDGRID_VERSION', '1.5' );
+	define( 'YAY_SMTP_SENDGRID_VERSION', '1.5.1' );
 }
 
 if ( ! defined( 'YAY_SMTP_SENDGRID_PLUGIN_URL' ) ) {
